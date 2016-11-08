@@ -4,7 +4,11 @@
     "repositoryName": "technical-blog",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "hayyuelha's notes"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
